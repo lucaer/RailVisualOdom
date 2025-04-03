@@ -43,5 +43,6 @@ The update of the state of the train is done by a Kalman Filter assuming for sim
 The system, effectively constrains the error accumulation characteristic of IMU-based navigation by incorporating the visual odometry data.
 This approach intentionally excludes GPS, and balise correction following the previously established justifications. And make it possible to implement the AI function according to the regulations.
 
-<img width="873" alt="Screenshot 2025-04-04 alle 00 20 38" src="https://github.com/user-attachments/assets/679d946e-5342-4970-90df-318faf1c2da5" />
+<img width="869" alt="Screenshot 2025-04-04 alle 00 26 23" src="https://github.com/user-attachments/assets/69078a01-c9ac-4884-ad18-35be3b8c0a00" />
+
 
